@@ -40,5 +40,6 @@ ul{
     font-weight: bold;
 }
 h1, h2, ul, li, img, p{
-    border: 20px;
+    border: 2px solid white;
+    color: rgb(222, 97, 118);
 }

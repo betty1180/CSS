@@ -1,0 +1,36 @@
+span + h1{
+    color: rgb(47, 137, 47);
+}
+h1 + p{
+    color: purple;
+}
+p + h2{
+    color: rgb(34, 34, 129);
+}
+h2 + p{
+    color: brown;
+}
+p + h3{
+    color: springgreen;
+}
+h3 + p{
+    color: chocolate;
+}
+p + h4{
+    color: darkslategrey;
+}
+h4 + p{
+    color: crimson;
+}
+p + h5{
+    color: hotpink;
+}
+h5 + p{
+    color: darkolivegreen;
+}
+p + h6{
+    color: indianred;
+}
+h6 + p{
+    color: lawngreen;
+}
